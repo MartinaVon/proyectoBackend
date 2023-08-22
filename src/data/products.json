@@ -1,0 +1,42 @@
+[
+	{
+		"title": "gorro",
+		"description": "verde",
+		"status": "ok",
+		"categorie": "ropa",
+		"code": "0026",
+		"stock": "7",
+		"id": 3,
+		"price": 3
+	},
+	{
+		"title": "gorro",
+		"price": 789,
+		"description": "verde",
+		"status": "ok",
+		"categorie": "ropa",
+		"code": "0027",
+		"stock": "7",
+		"id": 4
+	},
+	{
+		"title": "camisa",
+		"price": "400",
+		"description": "verde",
+		"status": "ok",
+		"categorie": "ropa",
+		"code": "0030",
+		"stock": "7",
+		"id": 5
+	},
+	{
+		"title": "aa",
+		"description": "CACS",
+		"price": "344",
+		"status": "ok",
+		"categorie": "remera",
+		"stock": "5",
+		"code": "789",
+		"id": 6
+	}
+]
